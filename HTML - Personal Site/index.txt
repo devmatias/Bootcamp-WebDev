@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title> ♥ BioProfile</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="images/Matias.png" alt="matias profile picture"></td>
+            <td>
+                <h1> Matias </h1>
+                <p><em> FullStack Web <strong><a
+                                href="https://www.linkedin.com/in/matias-correa-franco-de-faria-602b85171/">Student</a></strong></em>
+                </p>
+                <p>Putting some effort to learn Web Development to make lots of money</p>
+            </td>
+        </tr>
+    </table>
+
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>CEUB</li>
+        <li>Estácio</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table cellspacing="10">
+        <thead>
+            <tr>
+                <! -- table row -->
+                    <th>Dates</th>
+                    <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2020-2021</td>
+                <! -- table data -->
+                    <td>Gerente Santander</td>
+            </tr>
+            <tr>
+                <td>2017-2019</td>
+                <td>Caixa</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+
+    <table cellspacing="10">
+        <tr>
+            <td>iOS Development</td>
+            <td>✭✭✭✭✭</td>
+
+        </tr>
+        <tr>
+            <td>Web Development</td>
+            <td>✭✭</td>
+        </tr>
+        <tr>
+            <td>Gaming</td>
+            <td>✭✭✭✭✭</td>
+
+        </tr>
+        <tr>
+            <td>Exercising</td>
+            <td>✭✭✭✭</td>
+        </tr>
+    </table>
+    </td>
+
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <br>
+    <a href="contact-me.html">Contact Details</a>
+
+</body>
+
+</html>
