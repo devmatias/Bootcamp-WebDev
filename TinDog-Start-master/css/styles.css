@@ -137,6 +137,33 @@ p {
     padding: 3% 2%;
 }
 
+/* CTA Section */
+
+#cta {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+}
+
+.cta-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+/* Footer Section */
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
@@ -148,14 +175,5 @@ p {
     }
 }
 
-#cta {
-    background-color: #ef8172;
-    text-align: center;
-    padding: 100px;
-    color: #fff;
-}
 
-#footer {
-    text-align: center;
-    padding: 100px;
-}
+
